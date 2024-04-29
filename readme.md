@@ -1,4 +1,4 @@
-# CSS3 - Curso Desde Cero
+# HTML5 - Curso Desde Cero
 
 Instalaciones recomendadas para este curso
 
@@ -10,7 +10,6 @@ Instalaciones recomendadas para este curso
 
 * Live Server o Live Preview (uno de los dos)
 * Material Icon Theme
-* HTML to CSS autocompletion
 * Lorem Ipsum
 * Auto Close Tag
 
@@ -29,4 +28,39 @@ Instalaciones recomendadas para este curso
 
 # Contenido del Curso Desde Cero
 
-* Introducción a CSS3
+* Introducción a HTML5
+* Editores de Código
+* Crear un Archivo HTML
+* Herramientas de Desarrollo de Chrome
+* Elementos y Etiquetas
+* Especificar Idioma
+* Crear Encabezados
+* Párrafos
+* Buscar en la Documentación
+* Comentarios en HTML
+* Elemento main
+* Indentación
+* Imágenes y Atributos
+* Crear Enlaces Externos
+* Enlaces a secciones internas
+* Enlaces con imágenes
+* Crear enlaces con #
+* Listas no ordenadas
+* Listas ordenadas
+* Etiqueta strong
+* Text en cursiva
+* Texto Tachado
+* Línea Horizontal
+* Crear formularios
+* Texto Marcador de Posición
+* Crear un campo obligatorio
+* Botones de Radio
+* Grupo de Botones de Radio
+* Salto de Línea
+* Casillas de Verificación
+* El atributo 'checked'
+* El atributo 'value'
+* Elementos div
+* Pie de Página
+* Etiqueta small
+* Head
