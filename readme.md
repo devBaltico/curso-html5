@@ -12,6 +12,7 @@ Instalaciones recomendadas para este curso
 * Material Icon Theme
 * Lorem Ipsum
 * Auto Close Tag
+* Prettier
 
 ## Páginas recomendadas:
 
@@ -19,48 +20,58 @@ Instalaciones recomendadas para este curso
 
 * [MDN Documentación](https://developer.mozilla.org/es/docs/Web/css)
 
+* [Developer Tools Documentación](https://developer.chrome.com/docs/devtools?utm_source=devtools&hl=es-419)
+
 * [Pixabay](https://pixabay.com/)
 
 * [Boxicons](https://boxicons.com/)
 
 * [Icon-icons](https://icon-icons.com/es/)
 
-
 # Contenido del Curso Desde Cero
 
 * Introducción a HTML5
 * Editores de Código
-* Crear un Archivo HTML
-* Herramientas de Desarrollo de Chrome
-* Elementos y Etiquetas
+* Crear un Archivo HTML básico
 * Especificar Idioma
-* Crear Encabezados
+* Herramientas de Desarrollo de Chrome (developer tools)
+* Elementos y Etiquetas
+* Atributos
+* Encabezados
 * Párrafos
-* Buscar en la Documentación
+* Styles
+* Formatos
+* Elementos de citas y citas HTML
 * Comentarios en HTML
-* Elemento main
-* Indentación
-* Imágenes y Atributos
-* Crear Enlaces Externos
-* Enlaces a secciones internas
-* Enlaces con imágenes
-* Crear enlaces con #
-* Listas no ordenadas
-* Listas ordenadas
-* Etiqueta strong
-* Text en cursiva
-* Texto Tachado
-* Línea Horizontal
-* Crear formularios
-* Texto Marcador de Posición
-* Crear un campo obligatorio
-* Botones de Radio
-* Grupo de Botones de Radio
-* Salto de Línea
-* Casillas de Verificación
-* El atributo 'checked'
-* El atributo 'value'
-* Elementos div
-* Pie de Página
-* Etiqueta small
-* Head
+* Colores RGB, HEX, HSL
+* HTML Styles - CSS
+* Links: link Color, Link Bookmark
+* HTML Favicon
+* HTML Page Title
+* Tables
+* HTML Lists
+* HTML Block and Inline Elements
+* HTML Div Element
+* HTML class Attribute
+* HTML id Attribute
+* HTML Iframes
+* HTML JavaScript
+* HTML File Paths
+* HTML - The Head Element
+* HTML Layout Elements and Techniques
+* HTML Responsive Web Design
+* HTML Computer Code Elements
+* HTML Semantic Elements
+* HTML Style Guide
+* HTML Entities
+* HTML Symbols
+* Using Emojis in HTML
+* HTML Encoding (Character Sets)
+* HTML Forms
+* HTML Form Attributes
+* HTML Form Elements
+* HTML Input Types
+* HTML Input Attributes
+* HTML Input form* Attributes
+* HTML Graphics
+* HTML Multimedia
